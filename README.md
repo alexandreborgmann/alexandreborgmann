@@ -1,4 +1,4 @@
-Alexandre Borgmann 
+<h2>Alexandre Borgmann</h2>
 
 Sou desenvolverdor Oracle Forms/Reports, pl-sql, apex e python.
 
@@ -6,6 +6,10 @@ Sou desenvolverdor Oracle Forms/Reports, pl-sql, apex e python.
 <img width='50' height='50' src="https://user-images.githubusercontent.com/40210587/224505614-80b55223-2ad9-4a58-96d3-4671663d50fd.png" />
 <img width='50' height='50' src="https://user-images.githubusercontent.com/40210587/224505778-4886aaea-431c-466b-8131-f39d34edb93f.png" />
 <img width='50' height='50' src="https://user-images.githubusercontent.com/40210587/224505834-f756477f-a2d8-4be5-a119-0a4b6083ef12.png" />
-
 </div>
+
+Minhas redes sociais
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+
 
