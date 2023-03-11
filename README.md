@@ -10,6 +10,7 @@ Sou desenvolverdor Oracle Forms/Reports, pl-sql, apex e python.
 
 Minhas redes sociais
 
+<a href="https://www.linkedin.com/in/alexandre-borgmann-2b762621/">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-
+</a>
 
