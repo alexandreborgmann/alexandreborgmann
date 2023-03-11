@@ -13,4 +13,12 @@ Minhas redes sociais
 <a href="https://www.linkedin.com/in/alexandre-borgmann-2b762621/">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-
+<a href="https://www.linkedin.com/in/alexandre-borgmann-2b762621/">
+<img width='50' height='50' src="https://user-images.githubusercontent.com/40210587/224506540-4c9db728-4608-4093-9fed-e46b98e5ea82.png" />
+</a>
+<a href="https://www.linkedin.com/in/alexandre-borgmann-2b762621/">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />" />
+</a>
+<a href="https://www.linkedin.com/in/alexandre-borgmann-2b762621/">
+<img width='50' height='50' src="https://user-images.githubusercontent.com/40210587/224506577-8ccd0982-4c2b-46a4-9ff2-c971ed81e848.png" />
+</a>
