@@ -1,4 +1,4 @@
-### Oi meu nome é ALexandre Borgmann 
+ALexandre Borgmann 
 
 Sou desenvolverdor Oracle Forms/Reports, pl-sql, apex e python.
 
