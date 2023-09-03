@@ -13,13 +13,15 @@ Meus sites de competição de programação.
 
 <a href="https://leetcode.com/alexborgmann/" target="_blank">
 <img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/blob/main/leetcode.png" />
-Leetcode</a>
+</a>
 &nbsp;&nbsp;
 <img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/assets/40210587/44017773-97ea-47cb-82d9-9909679861e0" />
-<a href="https://codeforces.com/profile/aborgmann1969/" target="_blank">Codeforces</a>
+<a href="https://codeforces.com/profile/aborgmann1969/" target="_blank"> 
+</a>
 &nbsp;&nbsp;
 <img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/assets/40210587/83809682-64c1-4a44-a3fa-377d49660467" />
-<a href="https://www.codechef.com/users/aborgmann/" target="_blank">Codechef</a>
+<a href="https://www.codechef.com/users/aborgmann/" target="_blank"> 
+</a>
 &nbsp;&nbsp;
 
 Minhas redes sociais
