@@ -8,6 +8,15 @@ Sou analista/desenvolvedor Oracle Forms/Reports, pl-sql, apex e python/django.
 <img width='50' height='50' src="https://user-images.githubusercontent.com/40210587/224505834-f756477f-a2d8-4be5-a119-0a4b6083ef12.png" />&nbsp;&nbsp;
 </div>
 
+Meus sites de competição de programação.
+
+<a href="https://leetcode.com/alexborgmann/" target="_blank">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>&nbsp;&nbsp;
+<a href="https://leetcode.com/alexborgmann/" target="_blank">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>&nbsp;&nbsp;
+
 Minhas redes sociais
 
 <a href="https://www.linkedin.com/in/alexandre-borgmann-2b762621/" target="_blank">
@@ -22,3 +31,4 @@ Minhas redes sociais
 <a href="https://www.youtube.com/channel/UCgeIy0rh3ScvJavgnwPOVvg" target="_blank">
 <img width='50' height='50' src="https://user-images.githubusercontent.com/40210587/224506577-8ccd0982-4c2b-46a4-9ff2-c971ed81e848.png" />
 </a>&nbsp;&nbsp;
+
