@@ -19,7 +19,7 @@ Meus sites de competição de programação.
 </a>
 &nbsp;&nbsp;
 <a href="https://www.codechef.com/users/aborgmann/" target="_blank"> 
-<img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/assets/40210587/83809682-64c1-4a44-a3fa-377d49660467" />
+<img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/blob/main/logocodeforces.webp" />
 </a>
 &nbsp;&nbsp;
 
