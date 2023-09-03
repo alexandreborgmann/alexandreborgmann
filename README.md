@@ -10,7 +10,6 @@ Sou analista/desenvolvedor Oracle Forms/Reports, pl-sql, apex e python/django.
 
 Meus sites de competição de programação.
 
-
 <a href="https://leetcode.com/alexborgmann/" target="_blank">
 <img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/blob/main/leetcode.png" />
 </a>
