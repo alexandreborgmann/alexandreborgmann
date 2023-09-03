@@ -14,7 +14,7 @@ Meus sites de competição de programação.
 <img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/blob/main/leetcode.png" />
 </a>
 &nbsp;&nbsp;
-<img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/assets/40210587/44017773-97ea-47cb-82d9-9909679861e0" />
+<img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/blob/main/logocodeforces.webp" />
 <a href="https://codeforces.com/profile/aborgmann1969/" target="_blank"> 
 </a>
 &nbsp;&nbsp;
