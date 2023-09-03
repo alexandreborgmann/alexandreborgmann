@@ -12,7 +12,7 @@ Meus sites de competição de programação.
 
 
 <a href="https://leetcode.com/alexborgmann/" target="_blank">
-<img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/assets/40210587/9cdf4ab4-5b63-42e0-ac5d-9523b9acc2a0" />
+<img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/blob/main/leetcode.png" />
 Leetcode</a>
 &nbsp;&nbsp;
 <img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/assets/40210587/44017773-97ea-47cb-82d9-9909679861e0" />
