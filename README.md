@@ -23,7 +23,8 @@ Meus sites de competição de programação.
 </a>
 &nbsp;&nbsp;
 <a href="https://www.beecrowd.com.br/judge/pt/profile/896942" target="_blank"> 
-<img width='50' height='50' src="https://github.com/alexandreborgmann/alexandreborgmann/assets/40210587/a5c3a84f-9d86-4862-a7a8-e0084976d244" />
+<img width='50' height='50' src="![beecrowd](https://github.com/alexandreborgmann/alexandreborgmann/assets/40210587/c6603527-34af-4481-91a8-850727732a42)
+" />
 </a>
 &nbsp;&nbsp;
 
