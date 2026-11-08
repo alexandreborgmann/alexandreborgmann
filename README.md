@@ -1,6 +1,6 @@
 <h2>Alexandre Borgmann</h2>
 
-Sou analista/desenvolvedor full stack, Oracle Forms/Reports, pl-sql, apex , python/django, typescript, node-red, nestjs.
+Sou analista/desenvolvedor full stack, Oracle Forms/Reports, pl-sql, apex , python/django, typescript, node-red, nestjs.<br>
 Bancos Oracle, Mysql, postgresql, sql server.
 
 <div style="display: inline">
